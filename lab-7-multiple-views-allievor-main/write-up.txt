@@ -1,0 +1,15 @@
+How long did this take (estimate)?
+2 1/2 hours
+
+What were the enjoyable aspects of the lab?
+I enjoyed working on multiple chart types and learning how to connect interactions between the two. I also
+enjoyed learning how to implement color scales, which was easier than I expected.
+
+What were the challenging parts of this lab?
+In the first part, I did something wrong and my charts disappeared and I couldn't figure out what happened, so I
+made another branch to start over. After that, everything was relatively straightforward.
+
+What resources did you use? Include links to websites below. 
+github issues - https://code.visualstudio.com/docs/sourcecontrol/github
+bar chart attributes - https://observablehq.com/@d3/lets-make-a-bar-chart/4
+dispatch - https://d3js.org/d3-dispatch 
