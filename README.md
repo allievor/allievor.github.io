@@ -9,4 +9,4 @@ Here is a link to [Lab 7 - Linked Bar Chart and Scatterplot](lab-7-multiple-view
 
 Link to [Lab 8 - Responsive Vis](lab-8-advanced-topics-allievor-main/responsive/index.html).
 
-View my [Finished Project Visualization]([link](https://allievor.github.io/data-vis-final-project/)).
+View my [Finished Project Visualization](https://allievor.github.io/data-vis-final-project/).
